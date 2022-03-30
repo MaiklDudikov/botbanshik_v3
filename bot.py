@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from banshiki import SQbanshik
 import random
 
-API_TOKEN = '5119965890:AAGlVxqvhTB9gNCxU8YMixjlSUqByrzI0zc'
+API_TOKEN = ''
 # log level
 logging.basicConfig(level=logging.INFO)
 # bot init
