@@ -1,0 +1,3 @@
+aiogram
+db-sqlite3
+random2
